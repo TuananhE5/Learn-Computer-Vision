@@ -15,6 +15,7 @@ def fibonacci(n):
         return fn;
   
 print("10 số đầu tiên của dãy số Fibonacci: ");
+print("Test git pull");
 sb = "";
 for i in range(0, 10):
     sb = sb + str(fibonacci(i)) + ", ";
